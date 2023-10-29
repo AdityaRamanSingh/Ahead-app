@@ -3,8 +3,6 @@ This is a Next.js website built using the design of Ahead app: https://dribbble.
 
 Run Locally
 Clone the project
-
-  git clone https://github.com/miriyalatarunkumar/Density.exchange-task.git
   
   Go to the project directory
 
