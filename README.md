@@ -14,6 +14,6 @@ Start the server
 
   npm run dev
 Demo
-Link to project: https://density-exchange-taskui.vercel.app
+Link to project: https://animated-aheadapp.vercel.app/
 
 For any queries, contact --> adityaraman909@gmail.com
